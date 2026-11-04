@@ -1,0 +1,6 @@
+{
+  "name": "Attack on Titan: ODM Traversal & Titan Wave Survival",
+  "description": "High-fidelity 3D WebGL Attack on Titan Omni-Directional Mobility (ODM) traversal engine and Titan wave survival combat simulation powered by Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
